@@ -3,8 +3,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=40&pause=1000&color=7BB2D9&center=true&vCenter=true&width=800&lines=Me+chamo+Andr%C3%A9+Luiz;Tenho+21+Anos;Estudo+programa%C3%A7%C3%A3o+e+desenvolvimento" alt="Typing SVG" /></a>
  </div>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre-Luiz22&show_icons=true&count_private=true&hide_border=true&title_color=7BB2D9&icon_color=00bfbf&text_color=3786BE&bg_color=0d1117" alt="GitHub Stats André Luiz" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Luiz22&layout=compact&hide_border=true&title_color=7BB2D9&text_color=3786BE&bg_color=0d1117" alt="GitHub Linguagens mais usadas André Luiz" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre-Luiz22&show_icons=true&count_private=true&hide_border=true&title_color=7BB2D9&icon_color=00bfbf&text_color=3786BE&bg_color=0d1117&custom_title=Status+do+meu+GitHub" alt="GitHub Stats André Luiz" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Luiz22&layout=compact&hide_border=true&title_color=7bb2d9&text_color=3786be&bg_color=0d1117&custom_title=Linguagens+mais+utilizadas" />
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
