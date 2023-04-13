@@ -10,12 +10,12 @@
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Andre-Luiz22&bg_color=2b2b2b&color=7bb2d9&line=3786be&point=75f6ff&area=true&hide_border=true)
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Andre-Luiz22&bg_color=2b2b2b&color=7bb2d9&area_color=7BB2D9&line=3786be&point=75f6ff&area=true&hide_border=false"/>
  
  <br>
  <br>
-
-### Melhores Habilidades:
+ 
+<h3>Melhores Habilidades:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,13 +23,13 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-### Ferramentas:
+ <h3>Ferramentas:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Git-Hub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
   <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 </div>
 
-### Também tenho conhecimentos em:
+<h3>Também tenho conhecimentos em:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Tailwind-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
@@ -40,13 +40,13 @@
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 </div>
   
-### Estudando no momento:
+<h3>Estudando no momento:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
  </div>
  
- ### Ainda vou aprender mais sobre:
+ <h3>Ainda vou aprender mais sobre:</h3>
  <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -54,6 +54,7 @@
   <img align="center" alt="Mongo-DB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
  </div>
+
  
 
  
