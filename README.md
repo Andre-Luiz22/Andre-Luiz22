@@ -9,8 +9,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Andre-Luiz22&bg_color=2b2b2b&color=7bb2d9&area_color=7BB2D9&line=3786be&point=75f6ff&area=true&hide_border=false"/>
  
  <br>
  <br>
